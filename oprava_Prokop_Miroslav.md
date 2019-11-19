@@ -1,6 +1,6 @@
 # Oprava UML test Miroslav Prokop prom20
 
-# H2 Usecase diagram
+# H3 Usecase diagram
 
 1. Diagram pokrývá zadání
 2. diagram obsahuje potřebné aktéry
@@ -13,7 +13,7 @@
 9. vztahy jsou logické 
 10. pojmenování působí správně
 
-# H2 Class diagram
+# H3 Class diagram
 
 1. třídy pokrývají zadání
 2. důležité atributy nechybí
