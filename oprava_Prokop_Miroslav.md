@@ -15,5 +15,13 @@
 
 # H2 Class diagram
 
-1. 
+1. třídy pokrývají zadání
+2. důležité atributy nechybí
+3. důležité vztahy obsaženy
+4. důležité třídy a vazby obsaženy
+5. atributy podporují logiku modelu
+6. typy vazeb nejspíše odpovídají
+7. mohutnost chybí
+8. nedovedu posoudit
+9. pojmenování tříd a atributů je srozumitelné
 
