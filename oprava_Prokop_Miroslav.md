@@ -1,0 +1,19 @@
+# Oprava UML test Miroslav Prokop prom20
+
+# H2 Usecase diagram
+
+1. Diagram pokrývá zadání
+2. diagram obsahuje potřebné aktéry
+3. diagram neobsahuje iterní systém jako aktéra
+4. obsahuje nezbytné detaily
+5. usecasy si neodporují
+6. cíle i konečný stav jsou obsaženy
+7. popis obsažen ne obsáhle
+8. nedovedu posoudit, asi ano
+9. vztahy jsou logické 
+10. pojmenování působí správně
+
+# H2 Class diagram
+
+1. 
+
